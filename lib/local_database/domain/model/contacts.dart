@@ -29,7 +29,7 @@ class Contact {
   // int get hashCode => primaryKey.hashCode ^ name.hashCode;
 
   // factory Contact.fromMap(Map<String, dynamic> map) {
-  //   return Contact(name: map['name']);
+  //   return Contact(primaryKey:map['primary_key'], name: map['name']);
   // }
 
   // Map<String, dynamic> toMap() {
