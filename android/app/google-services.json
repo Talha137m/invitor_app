@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "412442874507",
+    "project_id": "invitor-ebadd",
+    "storage_bucket": "invitor-ebadd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412442874507:android:ca13fd85401f07e03c3a8e",
+        "android_client_info": {
+          "package_name": "pk.org.cas.f.three.formal.invitor.invitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412442874507-48rqbg5k69vncuaq4aqvikl6922t9mdu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pk.org.cas.f.three.formal.invitor.invitor",
+            "certificate_hash": "3f4a60d6f1c97e04c5cc322b641ace55c9203cf1"
+          }
+        },
+        {
+          "client_id": "412442874507-gn0vgc42qj7b1agbe6s07r7js4sv7of5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs_XmVMQ5Cpn37JGSwa92vVwT-QW07H7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412442874507-gn0vgc42qj7b1agbe6s07r7js4sv7of5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
